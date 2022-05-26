@@ -1,0 +1,27 @@
+{
+  "type": "flex",
+  "altText": "user balance",
+  "contents": {
+    "type": "bubble",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+      {
+        "type": "text",
+        "text": "",
+        "weight": "bold",
+        "style": "normal",
+        "align": "center",
+        "color": "#FFFFFF"
+      }
+      ],
+      "backgroundColor": "#e94700"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": []
+    }
+  }
+} 

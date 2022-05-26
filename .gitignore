@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+# production
+logs
+dist
+files
+images
+# misc
+.env
+.env.*
+certs
+npm-debug.log*
+package-lock.json
+response.json

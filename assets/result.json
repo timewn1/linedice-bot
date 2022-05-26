@@ -1,0 +1,86 @@
+{
+    "type": "flex",
+    "altText": "user balance",
+    "contents": {
+        "type": "bubble",
+        "header": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+                {
+                    "type": "text",
+                    "text": "",
+                    "weight": "bold",
+                    "style": "normal",
+                    "align": "center",
+                    "color": "#FFFFFF"
+                }
+            ],
+            "backgroundColor": "#e94700"
+        },
+        "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+                {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "round 1",
+                            "color": "#e94700",
+                            "weight": "bold"
+                        },
+                        {
+							"type": "image",
+							"url":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Dice-5.png",
+							"size": "50%"
+                        },
+                        {
+							"type": "image",
+							"url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Dice-1.png",
+							"size": "50%"
+                        },
+                        {
+							"type": "image",
+							"url":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Dice-6E.png",
+							"size": "50%"
+                        }
+                    ],
+                    "spacing": "sm"
+                },
+                {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "contents": [],
+                            "wrap": true,
+                            "text": "round 1",
+                            "color": "#e94700",
+                            "weight": "bold"
+                        },
+                        {
+							"type": "image",
+							"url":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Dice-5.png",
+							"size": "50%"
+                        },
+                        {
+							"type": "image",
+							"url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Dice-1.png",
+							"size": "50%"
+                        },
+                        {
+							"type": "image",
+							"url":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Dice-6E.png",
+							"size": "50%"
+                        }
+                    ],
+                    "spacing": "sm"
+                }
+            ]
+        }
+    }
+}
